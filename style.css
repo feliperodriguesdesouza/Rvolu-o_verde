@@ -126,6 +126,10 @@
     margin: 10px 0;
 }
 
+  footer img {
+  padding: 20px;
+  }
+
   .caixa{
     padding: 30px;
   }
